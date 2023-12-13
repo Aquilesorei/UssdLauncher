@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">UssdLauncher</string>
+    <string name="accessibility_service_description">Pour activer le service d\'accessibilité pour cette application, procédez comme suit: </string>
+</resources>
